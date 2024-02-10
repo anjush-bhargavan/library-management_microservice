@@ -1,0 +1,12 @@
+[submodule "services/book_service"]
+	path = services/book_service
+	url = https://github.com/anjush-bhargavan/golib_books.git
+[submodule "services/user_service"]
+	path = services/user_service
+	url = https://github.com/anjush-bhargavan/golib_user.git
+[submodule "services/admin_service"]
+	path = services/admin_service
+	url = https://github.com/anjush-bhargavan/golib_admin.git
+[submodule "services/api_gateway_service"]
+	path = services/api_gateway_service
+	url = https://github.com/anjush-bhargavan/golib_api_gateway.git
